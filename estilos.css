@@ -1,0 +1,26 @@
+body{
+    color: bisque;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    line-height: 30px;
+    letter-spacing: 5px;
+}
+{
+    font-size: 12;
+    font-family: Courier New, Courier, monospace;
+    font-style: italic;
+    background-color purple;
+
+}
+P{
+   color: aquamarine;
+   font-style: italic;
+   size: 30px; 
+}
+h1{
+    color: blue;
+    font-size: 12;
+    color: blueviolet;
+
+}
